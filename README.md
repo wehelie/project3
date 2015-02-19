@@ -1,7 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
+You can play the game at: http://wehelie.github.io/project3/
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
-# project3
+resources used
+===============================
+-https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial
+-http://jlongster.com/Making-Sprite-based-Games-with-Canvas
